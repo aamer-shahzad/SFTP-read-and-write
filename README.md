@@ -7,11 +7,17 @@ Simply Just Enter server details on top of script and ready to go, for example:
 
 
 $host = "HOST";
+
 $port = 22;
+
 $username = "USERNAME";
+
 $password = "password";
+
 $connection = NULL;
+
 $remote_dir = "Directory Absolute Path";
+
 $file='sample.text';
 
 For multiple files in the directory, here is the code:
