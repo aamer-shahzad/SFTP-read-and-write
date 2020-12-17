@@ -3,7 +3,7 @@
 Core PHP Read file from SFTP using ssh2_connect and works well with PHP version 7 as well.
 No Dependency or Library Required, can use with any PHP framework.
 
-Simply Just Enter server details on top of script and ready to go, for example:
+Simply Just enter server details on top of script and ready to go, for example:
 
 
     $host = "HOST";
