@@ -21,7 +21,7 @@ $remote_dir = "Directory Absolute Path";
 $file='sample.text';
 
 
-# For Reading multiple files in the directory, here is the code:
+# For Reading multiple files in the directory, Here is the code:
 
 $files = scandir('ssh2.sftp://' . $sftp . $remote_dir);
 
