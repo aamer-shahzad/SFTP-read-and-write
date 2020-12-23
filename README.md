@@ -28,3 +28,4 @@ Simply Just enter server details on top of script and ready to go, for example:
         print_r($contents);	exit;	
 
      }
+thanks
